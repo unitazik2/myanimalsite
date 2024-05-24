@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  header{background: #7a7aea;
+    padding: 10px;
+    border-radius: 8px;
+    color: rgb(78, 222, 121);
+    }
+  
+  h1 {border:10px solid rgb(114, 192, 175) ;
+    border-radius: 17px;
+    text-align: center;
+    color:orange ;
+    }
+    
+  footer{background: #7a7aea;
+  border-radius: 8px;
+  padding: 8px;
+  
+  
+  
+  }
+  
+  footer p{border-radius: 4px;
+  padding: 4px;
+  background: white;
+  }
+  
+  nav{background: rgb(123, 255, 0);
+  margin: 10px;
+  border-radius: 5px;
+  padding: 8px;
+  text-align: center;
+  }
+  
+  nav a {text-decoration: none;
+  padding:5px ;
+  color: rgb(255, 38, 0);
+  }
+  
+  
+  
+  }
+    
